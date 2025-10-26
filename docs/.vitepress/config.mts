@@ -34,6 +34,7 @@ export default defineConfig({
         text: '高级配置',
         items: [
           { text: '配置系统详解', link: '/advanced/configuration' },
+          { text: '本地模型缓存', link: '/advanced/local-model-cache' },
           { text: '文档解析', link: '/advanced/document-processing' },
           { text: '智能体', link: '/advanced/agents' },
           { text: '品牌自定义', link: '/advanced/branding' },
